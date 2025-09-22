@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ndou Mpho Alpheus
 
-<!--
-**Ndou-Mpho-Alpheus/Ndou-Mpho-Alpheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 **BSc IT Graduate** (University of Johannesburg)
+- 🔧 Currently working as an **ICT Intern** at Musina Local Municipality, specializing in IT support, networking, and system administration.
+- 🌱 Learning **Java**, **Python**, **JavaScript**, and **React** to become a **Software Engineer**.
+- 💡 Passionate about **problem-solving** and **building innovative solutions**.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools:
+- **Languages**: Java, Python, JavaScript, C#
+- **Frameworks & Tools**: Spring Boot, React, Node.js, MySQL, PostgreSQL
+- **Version Control**: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Career Goal
+- **Aspiring Software Engineer**, focusing on **backend development**, cloud services, and **system architecture**.
+
+## 📬 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/ndou-mpho-alpheus-45aa2b250/)  
+- [Email](mailto:ndoumpho01@gmail.com)  
+
+## 🚀 Featured Projects:
+- [To-Do Manager API](https://github.com/Ndou-Mpho-Alpheus/todo-manager-api) (Coming soon!)
