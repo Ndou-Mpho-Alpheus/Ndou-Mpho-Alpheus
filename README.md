@@ -19,4 +19,4 @@
 - [Email](mailto:ndoumpho01@gmail.com)  
 
 ## 🚀 Featured Projects:
-- [To-Do Manager API](https://github.com/Ndou-Mpho-Alpheus/todo-manager-api) (Coming soon!)
+- [To-Do Manager API](https://github.com/Ndou-Mpho-Alpheus/todo-manager-api)
