@@ -2,7 +2,6 @@
 
 ## 👨‍💻 About Me
 - 🎓 **BSc IT Graduate** (University of Johannesburg)
-- 🔧 Currently working as an **ICT Intern** at Musina Local Municipality, specializing in IT support, networking, and system administration.
 - 🌱 Learning **Java**, **Python**, **JavaScript**, and **React** to become a **Software Engineer**.
 - 💡 Passionate about **problem-solving** and **building innovative solutions**.
 
