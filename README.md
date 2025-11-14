@@ -68,4 +68,4 @@ https://www.linkedin.com/in/ndou-mpho-alpheus-45aa2b250/
 
 ---
 
-> 💡 *“Transforming data into decisions — one query at a time.”*
+> 💡 *“Transforming data into decisions - one query at a time.”*
